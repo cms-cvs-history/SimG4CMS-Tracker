@@ -1,0 +1,8 @@
+<use name=SimDataFormats/TrackingHit>
+<use name=Geometry/TrackerBaseAlgo>
+<use name=Geometry/TrackerSimAlgo>
+<use name=FWCore/Framework>
+
+<flags SEAL_PLUGIN_NAME="testSimG4CMSTracker">
+<library file=SimHitTrackerAnalyzer.cc name=testSimG4CMSTracker>
+</library>
