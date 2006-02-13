@@ -1,4 +1,7 @@
 <use name=SimDataFormats/TrackingHit>
+<use name=SimDataFormats/Track>
+<use name=SimDataFormats/Vertex>
+<use name=SimDataFormats/HepMCProduct>
 <use name=Geometry/TrackerBaseAlgo>
 <use name=Geometry/TrackerSimAlgo>
 <use name=FWCore/Framework>
