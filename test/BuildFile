@@ -2,8 +2,7 @@
 <use name=SimDataFormats/Track>
 <use name=SimDataFormats/Vertex>
 <use name=SimDataFormats/HepMCProduct>
-<use name=Geometry/TrackerBaseAlgo>
-<use name=Geometry/TrackerSimAlgo>
+<use name=Geometry/TrackerNumberingBuilder>
 <use name=FWCore/Framework>
 
 <flags SEAL_PLUGIN_NAME="testSimG4CMSTracker">
