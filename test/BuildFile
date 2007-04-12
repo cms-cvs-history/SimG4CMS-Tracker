@@ -5,6 +5,6 @@
 <use name=Geometry/TrackerNumberingBuilder>
 <use name=FWCore/Framework>
 
-<flags SEAL_PLUGIN_NAME="testSimG4CMSTracker">
+<flags EDM_PLUGIN=1>
 <library file=SimHitTrackerAnalyzer.cc name=testSimG4CMSTracker>
 </library>
